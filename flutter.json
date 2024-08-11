@@ -1,0 +1,204 @@
+{
+    "Flutter": [
+    {
+      "pregunta": "1. ¿Qué es Flutter?",
+      "opciones": {
+        "a": "Un lenguaje de programación",
+        "b": "Un framework para crear aplicaciones móviles",
+        "c": "Un sistema operativo",
+        "d": "Un editor de texto"
+      },
+      "respuesta_marcada": "b"
+    },
+    {
+      "pregunta": "2. ¿En qué lenguaje está escrito Flutter?",
+      "opciones": {
+        "a": "Python",
+        "b": "Java",
+        "c": "Dart",
+        "d": "Kotlin"
+      },
+      "respuesta_marcada": "c"
+    },
+    {
+      "pregunta": "3. ¿Qué es Dart?",
+      "opciones": {
+        "a": "Un lenguaje de programación desarrollado por Google",
+        "b": "Un framework de diseño",
+        "c": "Una base de datos",
+        "d": "Un sistema operativo"
+      },
+      "respuesta_marcada": "a"
+    },
+    {
+      "pregunta": "4. ¿Para qué se usa `MaterialApp` en Flutter?",
+      "opciones": {
+        "a": "Para manejar la base de datos",
+        "b": "Para crear un servidor web",
+        "c": "Para configurar la aplicación principal",
+        "d": "Para diseñar el backend"
+      },
+      "respuesta_marcada": "c"
+    },
+    {
+      "pregunta": "5. ¿Qué es un `Widget` en Flutter?",
+      "opciones": {
+        "a": "Una función",
+        "b": "Un componente reutilizable de la interfaz",
+        "c": "Un archivo de configuración",
+        "d": "Un plugin"
+      },
+      "respuesta_marcada": "b"
+    },
+    {
+      "pregunta": "6. ¿Cuál es la diferencia entre `StatelessWidget` y `StatefulWidget`?",
+      "opciones": {
+        "a": "`StatelessWidget` no tiene estado, `StatefulWidget` sí",
+        "b": "`StatefulWidget` es más rápido",
+        "c": "`StatelessWidget` es para aplicaciones grandes",
+        "d": "No hay diferencia"
+      },
+      "respuesta_marcada": "a"
+    },
+    {
+      "pregunta": "7. ¿Cómo se declara una variable en Dart?",
+      "opciones": {
+        "a": "`let`",
+        "b": "`const`",
+        "c": "`var`",
+        "d": "`def`"
+      },
+      "respuesta_marcada": "c"
+    },
+    {
+      "pregunta": "8. ¿Qué función se usa para iniciar la ejecución de una aplicación Flutter?",
+      "opciones": {
+        "a": "`start()`",
+        "b": "`runApp()`",
+        "c": "`launch()`",
+        "d": "`execute()`"
+      },
+      "respuesta_marcada": "b"
+    },
+    {
+      "pregunta": "9. ¿Qué es `Scaffold` en Flutter?",
+      "opciones": {
+        "a": "Un método para manejar APIs",
+        "b": "Un widget que estructura la UI básica",
+        "c": "Un plugin para bases de datos",
+        "d": "Un editor de código"
+      },
+      "respuesta_marcada": "b"
+    },
+    {
+      "pregunta": "10. ¿Qué tipo de lenguaje es Dart?",
+      "opciones": {
+        "a": "Tipado dinámico",
+        "b": "Tipado estático",
+        "c": "Tipado mixto",
+        "d": "No tiene tipado"
+      },
+      "respuesta_marcada": "b"
+    },
+    {
+      "pregunta": "11. ¿Qué método se usa para actualizar el estado en un `StatefulWidget`?",
+      "opciones": {
+        "a": "`setState()`",
+        "b": "`updateState()`",
+        "c": "`refreshState()`",
+        "d": "`reloadState()`"
+      },
+      "respuesta_marcada": "a"
+    },
+    {
+      "pregunta": "12. ¿Cómo se define una lista en Dart?",
+      "opciones": {
+        "a": "`List myList = [];`",
+        "b": "`var myList = {};`",
+        "c": "`array myList = [];`",
+        "d": "`set myList = {};`"
+      },
+      "respuesta_marcada": "a"
+    },
+    {
+      "pregunta": "13. ¿Qué es `Navigator` en Flutter?",
+      "opciones": {
+        "a": "Un plugin para GPS",
+        "b": "Un gestor de rutas",
+        "c": "Un framework para animaciones",
+        "d": "Un motor de búsqueda"
+      },
+      "respuesta_marcada": "b"
+    },
+    {
+      "pregunta": "14. ¿Qué operador se usa para concatenar cadenas en Dart?",
+      "opciones": {
+        "a": "`+`",
+        "b": "`&`",
+        "c": "`*`",
+        "d": "`%`"
+      },
+      "respuesta_marcada": "a"
+    },
+    {
+      "pregunta": "15. ¿Cómo se define una función en Dart?",
+      "opciones": {
+        "a": "`def myFunction() {}`",
+        "b": "`function myFunction() {}`",
+        "c": "`func myFunction() {}`",
+        "d": "`void myFunction() {}`"
+      },
+      "respuesta_marcada": "d"
+    },
+    {
+      "pregunta": "16. ¿Qué se usa para diseñar la interfaz en Flutter?",
+      "opciones": {
+        "a": "HTML y CSS",
+        "b": "Widgets",
+        "c": "XML",
+        "d": "JSON"
+      },
+      "respuesta_marcada": "b"
+    },
+    {
+      "pregunta": "17. ¿Qué significa `async` en Dart?",
+      "opciones": {
+        "a": "Que la función se ejecuta en un hilo separado",
+        "b": "Que la función es asíncrona",
+        "c": "Que la función nunca termina",
+        "d": "Que la función se ejecuta inmediatamente"
+      },
+      "respuesta_marcada": "b"
+    },
+    {
+      "pregunta": "18. ¿Qué es `Hot Reload` en Flutter?",
+      "opciones": {
+        "a": "Recargar la aplicación sin perder el estado",
+        "b": "Reiniciar completamente la aplicación",
+        "c": "Instalar actualizaciones",
+        "d": "Borrar la caché"
+      },
+      "respuesta_marcada": "a"
+    },
+    {
+      "pregunta": "19. ¿Qué es un `Stream` en Dart?",
+      "opciones": {
+        "a": "Una función que devuelve una lista",
+        "b": "Un flujo de datos asíncronos",
+        "c": "Un tipo de variable",
+        "d": "Un widget"
+      },
+      "respuesta_marcada": "b"
+    },
+    {
+      "pregunta": "20. ¿Cuál es el archivo principal de una aplicación Flutter?",
+      "opciones": {
+        "a": "`index.html`",
+        "b": "`app.js`",
+        "c": "`main.dart`",
+        "d": "`config.yaml`"
+      },
+      "respuesta_marcada": "c"
+    }
+  ]
+}
