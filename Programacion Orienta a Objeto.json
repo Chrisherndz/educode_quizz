@@ -1,7 +1,7 @@
 {
 "POO": [
     {
-      "pregunta": "1. ¿Qué es POO?",
+      "pregunta": "1. ¿Qué es Programacion Orientada a objeto?",
       "opciones": {
         "a": "Un paradigma de programación basado en objetos.",
         "b": "Un lenguaje de programación.",
