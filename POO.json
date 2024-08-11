@@ -1,0 +1,204 @@
+{
+"POO": [
+    {
+      "pregunta": "1. ¿Qué es POO?",
+      "opciones": {
+        "a": "Un paradigma de programación basado en objetos.",
+        "b": "Un lenguaje de programación.",
+        "c": "Un tipo de algoritmo.",
+        "d": "Un sistema operativo."
+      },
+      "respuesta_marcada": "a"
+    },
+    {
+      "pregunta": "2. ¿Cuál de estos NO es un pilar de POO?",
+      "opciones": {
+        "a": "Herencia",
+        "b": "Encapsulamiento",
+        "c": "Polimorfismo",
+        "d": "Iteración"
+      },
+      "respuesta_marcada": "d"
+    },
+    {
+      "pregunta": "3. ¿Qué es una clase?",
+      "opciones": {
+        "a": "Un objeto",
+        "b": "Un molde para crear objetos",
+        "c": "Una función",
+        "d": "Una variable"
+      },
+      "respuesta_marcada": "b"
+    },
+    {
+      "pregunta": "4. ¿Qué es un objeto?",
+      "opciones": {
+        "a": "Una clase",
+        "b": "Un tipo de dato",
+        "c": "Una instancia de una clase",
+        "d": "Un método"
+      },
+      "respuesta_marcada": "c"
+    },
+    {
+      "pregunta": "5. ¿Qué es herencia?",
+      "opciones": {
+        "a": "Crear objetos",
+        "b": "Reutilizar código",
+        "c": "Derivar una clase de otra",
+        "d": "Declarar una variable"
+      },
+      "respuesta_marcada": "c"
+    },
+    {
+      "pregunta": "6. ¿Qué es encapsulamiento?",
+      "opciones": {
+        "a": "Ocultar los detalles de implementación",
+        "b": "Derivar una clase de otra",
+        "c": "Crear objetos",
+        "d": "Un método para optimizar código"
+      },
+      "respuesta_marcada": "a"
+    },
+    {
+      "pregunta": "7. ¿Qué es polimorfismo?",
+      "opciones": {
+        "a": "Tener varias formas",
+        "b": "Ocultar los detalles de implementación",
+        "c": "Derivar una clase de otra",
+        "d": "Crear objetos"
+      },
+      "respuesta_marcada": "a"
+    },
+    {
+      "pregunta": "8. ¿Qué significa 'override'?",
+      "opciones": {
+        "a": "Ocultar los detalles de implementación",
+        "b": "Reescribir un método en una subclase",
+        "c": "Derivar una clase de otra",
+        "d": "Crear objetos"
+      },
+      "respuesta_marcada": "b"
+    },
+    {
+      "pregunta": "9. ¿Qué es un constructor?",
+      "opciones": {
+        "a": "Un método para inicializar un objeto",
+        "b": "Un método para derivar una clase",
+        "c": "Un tipo de clase",
+        "d": "Una variable"
+      },
+      "respuesta_marcada": "a"
+    },
+    {
+      "pregunta": "10. ¿Qué es una interfaz?",
+      "opciones": {
+        "a": "Un objeto",
+        "b": "Un tipo de dato",
+        "c": "Una clase que solo define métodos, sin implementación",
+        "d": "Un sistema operativo"
+      },
+      "respuesta_marcada": "c"
+    },
+    {
+      "pregunta": "11. ¿Qué lenguaje es POO?",
+      "opciones": {
+        "a": "C",
+        "b": "Java",
+        "c": "HTML",
+        "d": "SQL"
+      },
+      "respuesta_marcada": "b"
+    },
+    {
+      "pregunta": "12. ¿Qué es un método?",
+      "opciones": {
+        "a": "Un atributo de una clase",
+        "b": "Una función dentro de una clase",
+        "c": "Una variable global",
+        "d": "Un tipo de dato"
+      },
+      "respuesta_marcada": "b"
+    },
+    {
+      "pregunta": "13. ¿Qué es sobrecarga de métodos?",
+      "opciones": {
+        "a": "Múltiples métodos con el mismo nombre pero diferentes parámetros",
+        "b": "Herencia múltiple",
+        "c": "Un método que se repite",
+        "d": "Un método privado"
+      },
+      "respuesta_marcada": "a"
+    },
+    {
+      "pregunta": "14. ¿Qué es herencia múltiple?",
+      "opciones": {
+        "a": "Una clase que hereda de más de una clase",
+        "b": "Múltiples objetos con el mismo nombre",
+        "c": "Una función con varios retornos",
+        "d": "Un tipo de encapsulamiento"
+      },
+      "respuesta_marcada": "a"
+    },
+    {
+      "pregunta": "15. ¿Qué lenguaje NO es orientado a objetos?",
+      "opciones": {
+        "a": "Python",
+        "b": "JavaScript",
+        "c": "C++",
+        "d": "C"
+      },
+      "respuesta_marcada": "d"
+    },
+    {
+      "pregunta": "16. ¿Qué es un destructor?",
+      "opciones": {
+        "a": "Un método para liberar recursos",
+        "b": "Un método para crear objetos",
+        "c": "Un tipo de variable",
+        "d": "Una clase abstracta"
+      },
+      "respuesta_marcada": "a"
+    },
+    {
+      "pregunta": "17. ¿Qué es un método `get`?",
+      "opciones": {
+        "a": "Un método para obtener el valor de un atributo",
+        "b": "Un método para modificar un atributo",
+        "c": "Un método para destruir un objeto",
+        "d": "Un método para crear una instancia"
+      },
+      "respuesta_marcada": "a"
+    },
+    {
+      "pregunta": "18. ¿Qué es una instancia?",
+      "opciones": {
+        "a": "Una copia de una clase",
+        "b": "Un método privado",
+        "c": "Un tipo de dato",
+        "d": "Una función recursiva"
+      },
+      "respuesta_marcada": "a"
+    },
+    {
+      "pregunta": "19. ¿Qué es `toString()` en POO?",
+      "opciones": {
+        "a": "Un método que convierte un objeto en una cadena",
+        "b": "Un método que crea un objeto",
+        "c": "Un método que elimina un objeto",
+        "d": "Un método para copiar un objeto"
+      },
+      "respuesta_marcada": "a"
+    },
+    {
+      "pregunta": "20. ¿Cuál es un beneficio de la POO?",
+      "opciones": {
+        "a": "Reutilización del código",
+        "b": "Reducción de la memoria",
+        "c": "Mejora la recursividad",
+        "d": "Elimina errores"
+      },
+      "respuesta_marcada": "a"
+    }
+  ]
+}
