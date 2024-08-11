@@ -1,4 +1,4 @@
-{"Algortimo": [
+{"Algoritmo": [
     {
       "pregunta": "1)¿Cómo se declara una variable de tipo entero en C++?",
       "opciones": ["integer variable;", "int variable;", "num variable;", "float variable;"],
