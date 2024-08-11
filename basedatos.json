@@ -1,0 +1,1230 @@
+{
+    "BASE_DATOS":[
+       {
+          "pregunta":"1. Además del `WHERE` en esta cláusula también se coloca una condición",
+          "opciones":{
+             "a":"FROM",
+             "b":"ORDER BY",
+             "c":"JOIN",
+             "d":"Todas",
+             "e":"Ninguna"
+          },
+          "respuesta_marcada":"d"
+       },
+       {
+          "pregunta":"2. Cláusula obligatoria en el comando `INSERT`",
+          "opciones":{
+             "a":"WHERE",
+             "b":"SELECT",
+             "c":"JOIN",
+             "d":"Todas",
+             "e":"Ninguna"
+          },
+          "respuesta_marcada":"e"
+       },
+       {
+          "pregunta":"3. Cláusula que se reconoce por los alias con nombres válidos de las columnas",
+          "opciones":{
+             "a":"WHERE",
+             "b":"ORDER BY",
+             "c":"JOIN",
+             "d":"Todas",
+             "e":"Ninguna"
+          },
+          "respuesta_marcada":"e"
+       },
+       {
+          "pregunta":"4. Función agregada que no puede ser usada con columnas de tipo cadena",
+          "opciones":{
+             "a":"MAX",
+             "b":"COUNT",
+             "c":"MIN",
+             "d":"Todas",
+             "e":"Ninguna"
+          },
+          "respuesta_marcada":"a"
+       },
+       {
+          "pregunta":"5. Función de texto que te permite al comando `SELECT` modificar el valor de una columna dentro de la base de datos",
+          "opciones":{
+             "a":"SUBSTRING",
+             "b":"LOWER",
+             "c":"REPLACE",
+             "d":"Todas",
+             "e":"Ninguna"
+          },
+          "respuesta_marcada":"e"
+       },
+       {
+          "pregunta":"1. Cláusula opcional en una sentencia `SELECT`",
+          "opciones":{
+             "a":"JOIN",
+             "b":"HAVING",
+             "c":"WHERE",
+             "d":"Todas",
+             "e":"Ninguna"
+          },
+          "respuesta_marcada":"d"
+       },
+       {
+          "pregunta":"2. Función utilizada para concatenar dos columnas",
+          "opciones":{
+             "a":"CONCAT()",
+             "b":"COUNT()",
+             "c":"SUM()",
+             "d":"Todas",
+             "e":"Ninguna"
+          },
+          "respuesta_marcada":"a"
+       },
+       {
+          "pregunta":"3. Cláusula obligatoria en el comando `INSERT`",
+          "opciones":{
+             "a":"SET",
+             "b":"SELECT",
+             "c":"JOIN",
+             "d":"Todas",
+             "e":"Ninguna"
+          },
+          "respuesta_marcada":"e"
+       },
+       {
+          "pregunta":"4. Permite el uso de subconsultas",
+          "opciones":{
+             "a":"UPDATE",
+             "b":"SELECT",
+             "c":"DELETE",
+             "d":"Todas",
+             "e":"Ninguna"
+          },
+          "respuesta_marcada":"d"
+       },
+       {
+          "pregunta":"5. Función de texto que le permite al comando `SELECT` modificar el valor de una columna dentro de la base de datos",
+          "opciones":{
+             "a":"REPLACE",
+             "b":"LOWER",
+             "c":"SUBSTRING",
+             "d":"Todas",
+             "e":"Ninguna"
+          },
+          "respuesta_marcada":"e"
+       },
+       {
+          "pregunta":"1. Primer lenguaje que consulta a bases de datos en una base de datos relacional",
+          "opciones":{
+             "a":"SQL/86",
+             "b":"System R",
+             "c":"SEQUEL",
+             "d":"Todos",
+             "e":"Ninguno"
+          },
+          "respuesta_marcada":"c"
+       },
+       {
+          "pregunta":"2. Primer lenguaje de consulta que puede trabajar con más de dos tablas",
+          "opciones":{
+             "a":"Proyección",
+             "b":"Join",
+             "c":"Producto Cartesiano",
+             "d":"Union",
+             "e":"Ninguno"
+          },
+          "respuesta_marcada":"e"
+       },
+       {
+          "pregunta":"3. Es el nivel más importante en la manipulación de la base de datos",
+          "opciones":{
+             "a":"Manipulación",
+             "b":"Integridad",
+             "c":"Estructural",
+             "d":"SQLServer 3.0",
+             "e":"Ninguno"
+          },
+          "respuesta_marcada":"d"
+       },
+       {
+          "pregunta":"4. Operación que no requiere tablas equivalentes",
+          "opciones":{
+             "a":"Diferencia de conjuntos",
+             "b":"Unión",
+             "c":"Reunión",
+             "d":"Todos",
+             "e":"Ninguno"
+          },
+          "respuesta_marcada":"c"
+       },
+       {
+          "pregunta":"5. Operación algebraica que puede trabajar con tres tablas",
+          "opciones":{
+             "a":"Proyección",
+             "b":"Unión",
+             "c":"Producto Cartesiano",
+             "d":"Ninguno"
+          },
+          "respuesta_marcada":"d"
+       },
+       {
+          "pregunta":"6. Se refiere a las restricciones que deben cumplir las tablas de una base de datos",
+          "opciones":{
+             "a":"Nivel interno",
+             "b":"Nivel intermedio",
+             "c":"Reunión",
+             "d":"Ninguno"
+          },
+          "respuesta_marcada":"d"
+       },
+       {
+          "pregunta":"7. Operaciones que requieren tablas equivalentes",
+          "opciones":{
+             "a":"Producto cartesiano",
+             "b":"Diferencia de conjuntos",
+             "c":"Reunión",
+             "d":"Todos"
+          },
+          "respuesta_marcada":"b"
+       },
+       {
+          "pregunta":"8. Primer lenguaje de consulta de datos",
+          "opciones":{
+             "a":"SQL",
+             "b":"SEQUEL",
+             "c":"Nivel conceptual",
+             "d":"Ninguno"
+          },
+          "respuesta_marcada":"b"
+       },
+       {
+          "pregunta":"9. También es conocido como nivel externo",
+          "opciones":{
+             "a":"Nivel físico",
+             "b":"Nivel lógico",
+             "c":"Nivel conceptual",
+             "d":"Ninguno"
+          },
+          "respuesta_marcada":"d"
+       },
+       {
+          "pregunta":"10. Empresa donde nació el SQL Server",
+          "opciones":{
+             "a":"Microsoft",
+             "b":"Sybase",
+             "c":"A y B son correctas",
+             "d":"Ninguno"
+          },
+          "respuesta_marcada":"c"
+       }
+    ],
+    "POO":[
+       {
+          "pregunta":"1. ¿Qué es POO?",
+          "opciones":{
+             "a":"Un paradigma de programación basado en objetos.",
+             "b":"Un lenguaje de programación.",
+             "c":"Un tipo de algoritmo.",
+             "d":"Un sistema operativo."
+          },
+          "respuesta_marcada":"a"
+       },
+       {
+          "pregunta":"2. ¿Cuál de estos NO es un pilar de POO?",
+          "opciones":{
+             "a":"Herencia",
+             "b":"Encapsulamiento",
+             "c":"Polimorfismo",
+             "d":"Iteración"
+          },
+          "respuesta_marcada":"d"
+       },
+       {
+          "pregunta":"3. ¿Qué es una clase?",
+          "opciones":{
+             "a":"Un objeto",
+             "b":"Un molde para crear objetos",
+             "c":"Una función",
+             "d":"Una variable"
+          },
+          "respuesta_marcada":"b"
+       },
+       {
+          "pregunta":"4. ¿Qué es un objeto?",
+          "opciones":{
+             "a":"Una clase",
+             "b":"Un tipo de dato",
+             "c":"Una instancia de una clase",
+             "d":"Un método"
+          },
+          "respuesta_marcada":"c"
+       },
+       {
+          "pregunta":"5. ¿Qué es herencia?",
+          "opciones":{
+             "a":"Crear objetos",
+             "b":"Reutilizar código",
+             "c":"Derivar una clase de otra",
+             "d":"Declarar una variable"
+          },
+          "respuesta_marcada":"c"
+       },
+       {
+          "pregunta":"6. ¿Qué es encapsulamiento?",
+          "opciones":{
+             "a":"Ocultar los detalles de implementación",
+             "b":"Derivar una clase de otra",
+             "c":"Crear objetos",
+             "d":"Un método para optimizar código"
+          },
+          "respuesta_marcada":"a"
+       },
+       {
+          "pregunta":"7. ¿Qué es polimorfismo?",
+          "opciones":{
+             "a":"Tener varias formas",
+             "b":"Ocultar los detalles de implementación",
+             "c":"Derivar una clase de otra",
+             "d":"Crear objetos"
+          },
+          "respuesta_marcada":"a"
+       },
+       {
+          "pregunta":"8. ¿Qué significa 'override'?",
+          "opciones":{
+             "a":"Ocultar los detalles de implementación",
+             "b":"Reescribir un método en una subclase",
+             "c":"Derivar una clase de otra",
+             "d":"Crear objetos"
+          },
+          "respuesta_marcada":"b"
+       },
+       {
+          "pregunta":"9. ¿Qué es un constructor?",
+          "opciones":{
+             "a":"Un método para inicializar un objeto",
+             "b":"Un método para derivar una clase",
+             "c":"Un tipo de clase",
+             "d":"Una variable"
+          },
+          "respuesta_marcada":"a"
+       },
+       {
+          "pregunta":"10. ¿Qué es una interfaz?",
+          "opciones":{
+             "a":"Un objeto",
+             "b":"Un tipo de dato",
+             "c":"Una clase que solo define métodos, sin implementación",
+             "d":"Un sistema operativo"
+          },
+          "respuesta_marcada":"c"
+       },
+       {
+          "pregunta":"11. ¿Qué lenguaje es POO?",
+          "opciones":{
+             "a":"C",
+             "b":"Java",
+             "c":"HTML",
+             "d":"SQL"
+          },
+          "respuesta_marcada":"b"
+       },
+       {
+          "pregunta":"12. ¿Qué es un método?",
+          "opciones":{
+             "a":"Un atributo de una clase",
+             "b":"Una función dentro de una clase",
+             "c":"Una variable global",
+             "d":"Un tipo de dato"
+          },
+          "respuesta_marcada":"b"
+       },
+       {
+          "pregunta":"13. ¿Qué es sobrecarga de métodos?",
+          "opciones":{
+             "a":"Múltiples métodos con el mismo nombre pero diferentes parámetros",
+             "b":"Herencia múltiple",
+             "c":"Un método que se repite",
+             "d":"Un método privado"
+          },
+          "respuesta_marcada":"a"
+       },
+       {
+          "pregunta":"14. ¿Qué es herencia múltiple?",
+          "opciones":{
+             "a":"Una clase que hereda de más de una clase",
+             "b":"Múltiples objetos con el mismo nombre",
+             "c":"Una función con varios retornos",
+             "d":"Un tipo de encapsulamiento"
+          },
+          "respuesta_marcada":"a"
+       },
+       {
+          "pregunta":"15. ¿Qué lenguaje NO es orientado a objetos?",
+          "opciones":{
+             "a":"Python",
+             "b":"JavaScript",
+             "c":"C++",
+             "d":"C"
+          },
+          "respuesta_marcada":"d"
+       },
+       {
+          "pregunta":"16. ¿Qué es un destructor?",
+          "opciones":{
+             "a":"Un método para liberar recursos",
+             "b":"Un método para crear objetos",
+             "c":"Un tipo de variable",
+             "d":"Una clase abstracta"
+          },
+          "respuesta_marcada":"a"
+       },
+       {
+          "pregunta":"17. ¿Qué es un método `get`?",
+          "opciones":{
+             "a":"Un método para obtener el valor de un atributo",
+             "b":"Un método para modificar un atributo",
+             "c":"Un método para destruir un objeto",
+             "d":"Un método para crear una instancia"
+          },
+          "respuesta_marcada":"a"
+       },
+       {
+          "pregunta":"18. ¿Qué es una instancia?",
+          "opciones":{
+             "a":"Una copia de una clase",
+             "b":"Un método privado",
+             "c":"Un tipo de dato",
+             "d":"Una función recursiva"
+          },
+          "respuesta_marcada":"a"
+       },
+       {
+          "pregunta":"19. ¿Qué es `toString()` en POO?",
+          "opciones":{
+             "a":"Un método que convierte un objeto en una cadena",
+             "b":"Un método que crea un objeto",
+             "c":"Un método que elimina un objeto",
+             "d":"Un método para copiar un objeto"
+          },
+          "respuesta_marcada":"a"
+       },
+       {
+          "pregunta":"20. ¿Cuál es un beneficio de la POO?",
+          "opciones":{
+             "a":"Reutilización del código",
+             "b":"Reducción de la memoria",
+             "c":"Mejora la recursividad",
+             "d":"Elimina errores"
+          },
+          "respuesta_marcada":"a"
+       }
+    ],
+    "Flutter":[
+       {
+          "pregunta":"1. ¿Qué es Flutter?",
+          "opciones":{
+             "a":"Un lenguaje de programación",
+             "b":"Un framework para crear aplicaciones móviles",
+             "c":"Un sistema operativo",
+             "d":"Un editor de texto"
+          },
+          "respuesta_marcada":"b"
+       },
+       {
+          "pregunta":"2. ¿En qué lenguaje está escrito Flutter?",
+          "opciones":{
+             "a":"Python",
+             "b":"Java",
+             "c":"Dart",
+             "d":"Kotlin"
+          },
+          "respuesta_marcada":"c"
+       },
+       {
+          "pregunta":"3. ¿Qué es Dart?",
+          "opciones":{
+             "a":"Un lenguaje de programación desarrollado por Google",
+             "b":"Un framework de diseño",
+             "c":"Una base de datos",
+             "d":"Un sistema operativo"
+          },
+          "respuesta_marcada":"a"
+       },
+       {
+          "pregunta":"4. ¿Para qué se usa `MaterialApp` en Flutter?",
+          "opciones":{
+             "a":"Para manejar la base de datos",
+             "b":"Para crear un servidor web",
+             "c":"Para configurar la aplicación principal",
+             "d":"Para diseñar el backend"
+          },
+          "respuesta_marcada":"c"
+       },
+       {
+          "pregunta":"5. ¿Qué es un `Widget` en Flutter?",
+          "opciones":{
+             "a":"Una función",
+             "b":"Un componente reutilizable de la interfaz",
+             "c":"Un archivo de configuración",
+             "d":"Un plugin"
+          },
+          "respuesta_marcada":"b"
+       },
+       {
+          "pregunta":"6. ¿Cuál es la diferencia entre `StatelessWidget` y `StatefulWidget`?",
+          "opciones":{
+             "a":"`StatelessWidget` no tiene estado, `StatefulWidget` sí",
+             "b":"`StatefulWidget` es más rápido",
+             "c":"`StatelessWidget` es para aplicaciones grandes",
+             "d":"No hay diferencia"
+          },
+          "respuesta_marcada":"a"
+       },
+       {
+          "pregunta":"7. ¿Cómo se declara una variable en Dart?",
+          "opciones":{
+             "a":"`let`",
+             "b":"`const`",
+             "c":"`var`",
+             "d":"`def`"
+          },
+          "respuesta_marcada":"c"
+       },
+       {
+          "pregunta":"8. ¿Qué función se usa para iniciar la ejecución de una aplicación Flutter?",
+          "opciones":{
+             "a":"`start()`",
+             "b":"`runApp()`",
+             "c":"`launch()`",
+             "d":"`execute()`"
+          },
+          "respuesta_marcada":"b"
+       },
+       {
+          "pregunta":"9. ¿Qué es `Scaffold` en Flutter?",
+          "opciones":{
+             "a":"Un método para manejar APIs",
+             "b":"Un widget que estructura la UI básica",
+             "c":"Un plugin para bases de datos",
+             "d":"Un editor de código"
+          },
+          "respuesta_marcada":"b"
+       },
+       {
+          "pregunta":"10. ¿Qué tipo de lenguaje es Dart?",
+          "opciones":{
+             "a":"Tipado dinámico",
+             "b":"Tipado estático",
+             "c":"Tipado mixto",
+             "d":"No tiene tipado"
+          },
+          "respuesta_marcada":"b"
+       },
+       {
+          "pregunta":"11. ¿Qué método se usa para actualizar el estado en un `StatefulWidget`?",
+          "opciones":{
+             "a":"`setState()`",
+             "b":"`updateState()`",
+             "c":"`refreshState()`",
+             "d":"`reloadState()`"
+          },
+          "respuesta_marcada":"a"
+       },
+       {
+          "pregunta":"12. ¿Cómo se define una lista en Dart?",
+          "opciones":{
+             "a":"`List myList = [];`",
+             "b":"`var myList = {};`",
+             "c":"`array myList = [];`",
+             "d":"`set myList = {};`"
+          },
+          "respuesta_marcada":"a"
+       },
+       {
+          "pregunta":"13. ¿Qué es `Navigator` en Flutter?",
+          "opciones":{
+             "a":"Un plugin para GPS",
+             "b":"Un gestor de rutas",
+             "c":"Un framework para animaciones",
+             "d":"Un motor de búsqueda"
+          },
+          "respuesta_marcada":"b"
+       },
+       {
+          "pregunta":"14. ¿Qué operador se usa para concatenar cadenas en Dart?",
+          "opciones":{
+             "a":"`+`",
+             "b":"`&`",
+             "c":"`*`",
+             "d":"`%`"
+          },
+          "respuesta_marcada":"a"
+       },
+       {
+          "pregunta":"15. ¿Cómo se define una función en Dart?",
+          "opciones":{
+             "a":"`def myFunction() {}`",
+             "b":"`function myFunction() {}`",
+             "c":"`func myFunction() {}`",
+             "d":"`void myFunction() {}`"
+          },
+          "respuesta_marcada":"d"
+       },
+       {
+          "pregunta":"16. ¿Qué se usa para diseñar la interfaz en Flutter?",
+          "opciones":{
+             "a":"HTML y CSS",
+             "b":"Widgets",
+             "c":"XML",
+             "d":"JSON"
+          },
+          "respuesta_marcada":"b"
+       },
+       {
+          "pregunta":"17. ¿Qué significa `async` en Dart?",
+          "opciones":{
+             "a":"Que la función se ejecuta en un hilo separado",
+             "b":"Que la función es asíncrona",
+             "c":"Que la función nunca termina",
+             "d":"Que la función se ejecuta inmediatamente"
+          },
+          "respuesta_marcada":"b"
+       },
+       {
+          "pregunta":"18. ¿Qué es `Hot Reload` en Flutter?",
+          "opciones":{
+             "a":"Recargar la aplicación sin perder el estado",
+             "b":"Reiniciar completamente la aplicación",
+             "c":"Instalar actualizaciones",
+             "d":"Borrar la caché"
+          },
+          "respuesta_marcada":"a"
+       },
+       {
+          "pregunta":"19. ¿Qué es un `Stream` en Dart?",
+          "opciones":{
+             "a":"Una función que devuelve una lista",
+             "b":"Un flujo de datos asíncronos",
+             "c":"Un tipo de variable",
+             "d":"Un widget"
+          },
+          "respuesta_marcada":"b"
+       },
+       {
+          "pregunta":"20. ¿Cuál es el archivo principal de una aplicación Flutter?",
+          "opciones":{
+             "a":"`index.html`",
+             "b":"`app.js`",
+             "c":"`main.dart`",
+             "d":"`config.yaml`"
+          },
+          "respuesta_marcada":"c"
+       }
+    ],
+    "estructura de datos":[
+       {
+          "pregunta":"¿Cómo se declara una variable de tipo entero en C++?",
+          "opciones":[
+             "integer variable;",
+             "int variable;",
+             "num variable;",
+             "float variable;"
+          ],
+          "respuesta_correcta":"int variable;"
+       },
+       {
+          "pregunta":"¿Cuál es el operador de asignación en C++?",
+          "opciones":[
+             "==",
+             "!=",
+             "=",
+             "<="
+          ],
+          "respuesta_correcta":"="
+       },
+       {
+          "pregunta":"¿Cómo se define una función en C++?",
+          "opciones":[
+             "tipo_de_retorno nombre_de_función(parametros) { cuerpo_de_función; }",
+             "nombre_de_función(tipo_de_retorno parametros) { cuerpo_de_función; }",
+             "nombre_de_función { tipo_de_retorno parametros; cuerpo_de_función; }",
+             "función tipo_de_retorno(nombre_de_función parametros) { cuerpo_de_función; }"
+          ],
+          "respuesta_correcta":"tipo_de_retorno nombre_de_función(parametros) { cuerpo_de_función; }"
+       },
+       {
+          "pregunta":"¿Qué hace el operador `==` en C++?",
+          "opciones":[
+             "Asigna valores",
+             "Compara si dos valores son diferentes",
+             "Compara si dos valores son iguales",
+             "Comenta una línea de código"
+          ],
+          "respuesta_correcta":"Compara si dos valores son iguales"
+       },
+       {
+          "pregunta":"¿Cómo se declara un puntero a entero en C++?",
+          "opciones":[
+             "int* puntero;",
+             "int puntero;",
+             "pointer int;",
+             "int &puntero;"
+          ],
+          "respuesta_correcta":"int* puntero;"
+       },
+       {
+          "pregunta":"¿Qué clase se utiliza para crear una ventana en Swing (Java)?",
+          "opciones":[
+             "JPanel",
+             "JFrame",
+             "JWindow",
+             "JDialog"
+          ],
+          "respuesta_correcta":"JFrame"
+       },
+       {
+          "pregunta":"¿Cómo se hace visible un `JFrame` en Java?",
+          "opciones":[
+             "show();",
+             "setVisible(true);",
+             "display();",
+             "open();"
+          ],
+          "respuesta_correcta":"setVisible(true);"
+       },
+       {
+          "pregunta":"¿Cómo se agrega un botón a un `JFrame` en Java?",
+          "opciones":[
+             "ventana.insert(new JButton(\"Texto\"));",
+             "ventana.attach(new JButton(\"Texto\"));",
+             "ventana.add(new JButton(\"Texto\"));",
+             "ventana.place(new JButton(\"Texto\"));"
+          ],
+          "respuesta_correcta":"ventana.add(new JButton(\"Texto\"));"
+       },
+       {
+          "pregunta":"¿Qué método se usa para establecer el tamaño de un `JFrame` en Java?",
+          "opciones":[
+             "setDimensions(ancho, alto);",
+             "resize(ancho, alto);",
+             "setBounds(ancho, alto);",
+             "setSize(ancho, alto);"
+          ],
+          "respuesta_correcta":"setSize(ancho, alto);"
+       },
+       {
+          "pregunta":"¿Qué método se usa para establecer la operación de cierre de un `JFrame` en Java?",
+          "opciones":[
+             "setCloseOperation(JFrame.DISPOSE_ON_CLOSE);",
+             "setExitOperation(JFrame.EXIT_ON_CLOSE);",
+             "setCloseAction(JFrame.CLOSE);",
+             "setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);"
+          ],
+          "respuesta_correcta":"setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);"
+       },
+       {
+          "pregunta":"¿Cómo se declara una estructura en C++?",
+          "opciones":[
+             "class Nombre { tipo miembro; };",
+             "struct Nombre { tipo miembro; };",
+             "typedef struct { tipo miembro; } Nombre;",
+             "struct Nombre(tipo miembro);"
+          ],
+          "respuesta_correcta":"struct Nombre { tipo miembro; };"
+       },
+       {
+          "pregunta":"¿Cómo se define una acción para un botón en Java?",
+          "opciones":[
+             "Implementando MouseListener",
+             "Implementando ActionListener",
+             "Implementando KeyListener",
+             "Definiendo WindowAdapter"
+          ],
+          "respuesta_correcta":"Implementando ActionListener"
+       },
+       {
+          "pregunta":"¿Cómo se crea una etiqueta en Swing (Java)?",
+          "opciones":[
+             "Label etiqueta = new Label(\"Texto\");",
+             "JText etiqueta = new JText(\"Texto\");",
+             "JLabel etiqueta = new JLabel(\"Texto\");",
+             "TextLabel etiqueta = new TextLabel(\"Texto\");"
+          ],
+          "respuesta_correcta":"JLabel etiqueta = new JLabel(\"Texto\");"
+       },
+       {
+          "pregunta":"¿Cómo se obtiene el texto de un `JTextField` en Java?",
+          "opciones":[
+             "campo.getValue();",
+             "campo.text();",
+             "campo.readText();",
+             "campo.getText();"
+          ],
+          "respuesta_correcta":"campo.getText();"
+       },
+       {
+          "pregunta":"¿Qué método se usa para redibujar un componente en Java?",
+          "opciones":[
+             "refresh();",
+             "update();",
+             "draw();",
+             "repaint();"
+          ],
+          "respuesta_correcta":"repaint();"
+       },
+       {
+          "pregunta":"¿Cómo se declara una variable de tipo `float` en C++?",
+          "opciones":[
+             "decimal variable;",
+             "double variable;",
+             "float variable;",
+             "var variable: float;"
+          ],
+          "respuesta_correcta":"float variable;"
+       },
+       {
+          "pregunta":"¿Qué clase se usa para crear un campo de texto en Swing (Java)?",
+          "opciones":[
+             "TextField",
+             "JTextField",
+             "InputField",
+             "TextBox"
+          ],
+          "respuesta_correcta":"JTextField"
+       },
+       {
+          "pregunta":"¿Cómo se añade un `ActionListener` a un botón en Java?",
+          "opciones":[
+             "setActionListener()",
+             "addActionListener()",
+             "attachListener()",
+             "registerListener()"
+          ],
+          "respuesta_correcta":"addActionListener()"
+       },
+       {
+          "pregunta":"¿Cómo se agrupan botones en Swing (Java) para que actúen como un solo grupo?",
+          "opciones":[
+             "ButtonSet",
+             "GroupButton",
+             "RadioButtonGroup",
+             "ButtonGroup"
+          ],
+          "respuesta_correcta":"ButtonGroup"
+       },
+       {
+          "pregunta":"¿Qué clase se usa para crear una ventana de diálogo en Swing (Java)?",
+          "opciones":[
+             "JDialog",
+             "JWindow",
+             "JFrame",
+             "JPanel"
+          ],
+          "respuesta_correcta":"JDialog"
+       }
+    ],
+    "JAVA ":{
+       "C++ y Java con GUI":[
+          {
+             "pregunta":"¿Cómo se declara una variable de tipo entero en C++?",
+             "opciones":[
+                "integer variable;",
+                "int variable;",
+                "num variable;",
+                "float variable;"
+             ],
+             "respuesta_correcta":"int variable;"
+          },
+          {
+             "pregunta":"¿Cuál es el operador de asignación en C++?",
+             "opciones":[
+                "==",
+                "!=",
+                "=",
+                "<="
+             ],
+             "respuesta_correcta":"="
+          },
+          {
+             "pregunta":"¿Cómo se define una función en C++?",
+             "opciones":[
+                "tipo_de_retorno nombre_de_función(parametros) { cuerpo_de_función; }",
+                "nombre_de_función(tipo_de_retorno parametros) { cuerpo_de_función; }",
+                "nombre_de_función { tipo_de_retorno parametros; cuerpo_de_función; }",
+                "función tipo_de_retorno(nombre_de_función parametros) { cuerpo_de_función; }"
+             ],
+             "respuesta_correcta":"tipo_de_retorno nombre_de_función(parametros) { cuerpo_de_función; }"
+          },
+          {
+             "pregunta":"¿Qué hace el operador `==` en C++?",
+             "opciones":[
+                "Asigna valores",
+                "Compara si dos valores son diferentes",
+                "Compara si dos valores son iguales",
+                "Comenta una línea de código"
+             ],
+             "respuesta_correcta":"Compara si dos valores son iguales"
+          },
+          {
+             "pregunta":"¿Cómo se declara un puntero a entero en C++?",
+             "opciones":[
+                "int* puntero;",
+                "int puntero;",
+                "pointer int;",
+                "int &puntero;"
+             ],
+             "respuesta_correcta":"int* puntero;"
+          },
+          {
+             "pregunta":"¿Qué clase se utiliza para crear una ventana en Swing (Java)?",
+             "opciones":[
+                "JPanel",
+                "JFrame",
+                "JWindow",
+                "JDialog"
+             ],
+             "respuesta_correcta":"JFrame"
+          },
+          {
+             "pregunta":"¿Cómo se hace visible un `JFrame` en Java?",
+             "opciones":[
+                "show();",
+                "setVisible(true);",
+                "display();",
+                "open();"
+             ],
+             "respuesta_correcta":"setVisible(true);"
+          },
+          {
+             "pregunta":"¿Cómo se agrega un botón a un `JFrame` en Java?",
+             "opciones":[
+                "ventana.insert(new JButton(\"Texto\"));",
+                "ventana.attach(new JButton(\"Texto\"));",
+                "ventana.add(new JButton(\"Texto\"));",
+                "ventana.place(new JButton(\"Texto\"));"
+             ],
+             "respuesta_correcta":"ventana.add(new JButton(\"Texto\"));"
+          },
+          {
+             "pregunta":"¿Qué método se usa para establecer el tamaño de un `JFrame` en Java?",
+             "opciones":[
+                "setDimensions(ancho, alto);",
+                "resize(ancho, alto);",
+                "setBounds(ancho, alto);",
+                "setSize(ancho, alto);"
+             ],
+             "respuesta_correcta":"setSize(ancho, alto);"
+          },
+          {
+             "pregunta":"¿Qué método se usa para establecer la operación de cierre de un `JFrame` en Java?",
+             "opciones":[
+                "setCloseOperation(JFrame.DISPOSE_ON_CLOSE);",
+                "setExitOperation(JFrame.EXIT_ON_CLOSE);",
+                "setCloseAction(JFrame.CLOSE);",
+                "setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);"
+             ],
+             "respuesta_correcta":"setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);"
+          },
+          {
+             "pregunta":"¿Cómo se declara una estructura en C++?",
+             "opciones":[
+                "class Nombre { tipo miembro; };",
+                "struct Nombre { tipo miembro; };",
+                "typedef struct { tipo miembro; } Nombre;",
+                "struct Nombre(tipo miembro);"
+             ],
+             "respuesta_correcta":"struct Nombre { tipo miembro; };"
+          },
+          {
+             "pregunta":"¿Cómo se define una acción para un botón en Java?",
+             "opciones":[
+                "Implementando MouseListener",
+                "Implementando ActionListener",
+                "Implementando KeyListener",
+                "Definiendo WindowAdapter"
+             ],
+             "respuesta_correcta":"Implementando ActionListener"
+          },
+          {
+             "pregunta":"¿Cómo se crea una etiqueta en Swing (Java)?",
+             "opciones":[
+                "Label etiqueta = new Label(\"Texto\");",
+                "JText etiqueta = new JText(\"Texto\");",
+                "JLabel etiqueta = new JLabel(\"Texto\");",
+                "TextLabel etiqueta = new TextLabel(\"Texto\");"
+             ],
+             "respuesta_correcta":"JLabel etiqueta = new JLabel(\"Texto\");"
+          },
+          {
+             "pregunta":"¿Cómo se obtiene el texto de un `JTextField` en Java?",
+             "opciones":[
+                "campo.getValue();",
+                "campo.text();",
+                "campo.readText();",
+                "campo.getText();"
+             ],
+             "respuesta_correcta":"campo.getText();"
+          },
+          {
+             "pregunta":"¿Qué método se usa para redibujar un componente en Java?",
+             "opciones":[
+                "refresh();",
+                "update();",
+                "draw();",
+                "repaint();"
+             ],
+             "respuesta_correcta":"repaint();"
+          },
+          {
+             "pregunta":"¿Cómo se declara una variable de tipo `float` en C++?",
+             "opciones":[
+                "decimal variable;",
+                "double variable;",
+                "float variable;",
+                "var variable: float;"
+             ],
+             "respuesta_correcta":"float variable;"
+          },
+          {
+             "pregunta":"¿Qué clase se usa para crear un campo de texto en Swing (Java)?",
+             "opciones":[
+                "TextField",
+                "JTextField",
+                "InputField",
+                "TextBox"
+             ],
+             "respuesta_correcta":"JTextField"
+          },
+          {
+             "pregunta":"¿Cómo se añade un `ActionListener` a un botón en Java?",
+             "opciones":[
+                "setActionListener()",
+                "addActionListener()",
+                "attachListener()",
+                "registerListener()"
+             ],
+             "respuesta_correcta":"addActionListener()"
+          },
+          {
+             "pregunta":"¿Cómo se agrupan botones en Swing (Java) para que actúen como un solo grupo?",
+             "opciones":[
+                "ButtonSet",
+                "GroupButton",
+                "RadioButtonGroup",
+                "ButtonGroup"
+             ],
+             "respuesta_correcta":"ButtonGroup"
+          },
+          {
+             "pregunta":"¿Qué clase se usa para crear una ventana de diálogo en Swing (Java)?",
+             "opciones":[
+                "JDialog",
+                "JWindow",
+                "JFrame",
+                "JPanel"
+             ],
+             "respuesta_correcta":"JDialog"
+          }
+       ],
+       "Algoritmos y Estructuras de Datos en C++":[
+          {
+             "pregunta":"¿Qué es un algoritmo?",
+             "opciones":[
+                "Un tipo de variable",
+                "Un conjunto de instrucciones para resolver un problema",
+                "Un lenguaje de programación",
+                "Un tipo de dato"
+             ],
+             "respuesta_correcta":"Un conjunto de instrucciones para resolver un problema"
+          },
+          {
+             "pregunta":"¿Cuál es la principal característica de una estructura de datos?",
+             "opciones":[
+                "Almacenar datos de manera eficiente",
+                "Ejecutar operaciones matemáticas",
+                "Diseñar interfaces gráficas",
+                "Crear algoritmos"
+             ],
+             "respuesta_correcta":"Almacenar datos de manera eficiente"
+          },
+          {
+             "pregunta":"¿Qué tipo de estructura de datos es una lista enlazada?",
+             "opciones":[
+                "Estructura lineal",
+                "Estructura jerárquica",
+                "Estructura de red",
+                "Estructura de conjunto"
+             ],
+             "respuesta_correcta":"Estructura lineal"
+          },
+          {
+             "pregunta":"¿Cuál de los siguientes es un tipo de lista enlazada en C++?",
+             "opciones":[
+                "Lista doblemente enlazada",
+                "Lista circular",
+                "Lista simple",
+                "Todas las anteriores"
+             ],
+             "respuesta_correcta":"Todas las anteriores"
+          },
+          {
+             "pregunta":"¿Qué es una pila?",
+             "opciones":[
+                "Una estructura que sigue el principio FIFO",
+                "Una estructura que sigue el principio LIFO",
+                "Una lista ordenada",
+                "Una tabla de hash"
+             ],
+             "respuesta_correcta":"Una estructura que sigue el principio LIFO"
+          },
+          {
+             "pregunta":"¿Qué es una cola?",
+             "opciones":[
+                "Una estructura que sigue el principio FIFO",
+                "Una estructura que sigue el principio LIFO",
+                "Una lista ordenada",
+                "Un árbol"
+             ],
+             "respuesta_correcta":"Una estructura que sigue el principio FIFO"
+          },
+          {
+             "pregunta":"¿Qué es un árbol binario?",
+             "opciones":[
+                "Una estructura con nodos donde cada nodo tiene hasta dos hijos",
+                "Una lista de nodos conectados",
+                "Una estructura de datos en forma de tabla",
+                "Un tipo de pila"
+             ],
+             "respuesta_correcta":"Una estructura con nodos donde cada nodo tiene hasta dos hijos"
+          },
+          {
+             "pregunta":"¿Cuál es el tiempo de acceso promedio en un árbol binario de búsqueda balanceado?",
+             "opciones":[
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n log n)"
+             ],
+             "respuesta_correcta":"O(log n)"
+          },
+          {
+             "pregunta":"¿Qué es un grafo?",
+             "opciones":[
+                "Una estructura compuesta por nodos y aristas",
+                "Una estructura lineal",
+                "Una tabla de datos",
+                "Un tipo de árbol"
+             ],
+             "respuesta_correcta":"Una estructura compuesta por nodos y aristas"
+          },
+          {
+             "pregunta":"¿Cuál es el objetivo del algoritmo de Dijkstra?",
+             "opciones":[
+                "Encontrar el camino más largo en un grafo",
+                "Encontrar el camino más corto en un grafo",
+                "Ordenar una lista de números",
+                "Balancear un árbol binario"
+             ],
+             "respuesta_correcta":"Encontrar el camino más corto en un grafo"
+          },
+          {
+             "pregunta":"¿Qué estructura de datos utiliza una tabla de hash?",
+             "opciones":[
+                "Árbol binario",
+                "Lista enlazada",
+                "Arreglo",
+                "Punteros"
+             ],
+             "respuesta_correcta":"Arreglo"
+          },
+          {
+             "pregunta":"¿Qué es la complejidad temporal de un algoritmo?",
+             "opciones":[
+                "El tiempo que tarda un algoritmo en ejecutarse",
+                "La cantidad de memoria que utiliza un algoritmo",
+                "El número de variables en un algoritmo",
+                "El lenguaje de programación utilizado"
+             ],
+             "respuesta_correcta":"El tiempo que tarda un algoritmo en ejecutarse"
+          },
+          {
+             "pregunta":"¿Qué significa O(n) en notación Big-O?",
+             "opciones":[
+                "El tiempo de ejecución es constante",
+                "El tiempo de ejecución crece linealmente con n",
+                "El tiempo de ejecución crece exponencialmente con n",
+                "El tiempo de ejecución es logarítmico"
+             ],
+             "respuesta_correcta":"El tiempo de ejecución crece linealmente con n"
+          },
+          {
+             "pregunta":"¿Qué algoritmo se usa para ordenar un arreglo?",
+             "opciones":[
+                "Búsqueda binaria",
+                "Ordenamiento por selección",
+                "Algoritmo de Dijkstra",
+                "Algoritmo de Prim"
+             ],
+             "respuesta_correcta":"Ordenamiento por selección"
+          },
+          {
+             "pregunta":"¿Qué tipo de recorrido visita primero la raíz en un árbol?",
+             "opciones":[
+                "Recorrido en orden",
+                "Recorrido en preorden",
+                "Recorrido en postorden",
+                "Recorrido por niveles"
+             ],
+             "respuesta_correcta":"Recorrido en preorden"
+          },
+          {
+             "pregunta":"¿Cuál es la diferencia entre una pila y una cola?",
+             "opciones":[
+                "Una pila sigue LIFO y una cola sigue FIFO",
+                "Una cola sigue LIFO y una pila sigue FIFO",
+                "Ambas siguen LIFO",
+                "Ambas siguen FIFO"
+             ],
+             "respuesta_correcta":"Una pila sigue LIFO y una cola sigue FIFO"
+          },
+          {
+             "pregunta":"¿Qué estructura de datos es más adecuada para implementar una pila?",
+             "opciones":[
+                "Arreglo",
+                "Lista enlazada",
+                "Árbol",
+                "Grafo"
+             ],
+             "respuesta_correcta":"Lista enlazada"
+          },
+          {
+             "pregunta":"¿Qué algoritmo se utiliza para encontrar un valor en una lista ordenada?",
+             "opciones":[
+                "Búsqueda lineal",
+                "Búsqueda binaria",
+                "Ordenamiento rápido",
+                "Ordenamiento por burbuja"
+             ],
+             "respuesta_correcta":"Búsqueda binaria"
+          },
+          {
+             "pregunta":"¿Qué estructura de datos es adecuada para representar una jerarquía?",
+             "opciones":[
+                "Pila",
+                "Árbol",
+                "Grafo",
+                "Cola"
+             ],
+             "respuesta_correcta":"Árbol"
+          },
+          {
+             "pregunta":"¿Cuál es el principal beneficio de una tabla hash?",
+             "opciones":[
+                "Acceso rápido a los datos",
+                "Menor uso de memoria",
+                "Eficiencia en ordenamiento",
+                "Mejor manejo de datos duplicados"
+             ],
+             "respuesta_correcta":"Acceso rápido a los datos"
+          }
+       ]
+    }
+ }
