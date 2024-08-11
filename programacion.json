@@ -1,0 +1,140 @@
+
+     {
+    "C++ y Java con GUI": [
+      {
+        "pregunta": "1)¿Cómo se declara una variable de tipo entero en C++?",
+        "opciones": ["integer variable;", "int variable;", "num variable;", "float variable;"],
+        "respuesta_correcta": "int variable;"
+      },
+      {
+        "pregunta": "2)¿Cuál es el operador de asignación en C++?",
+        "opciones": ["==", "!=", "=", "<="],
+        "respuesta_correcta": "="
+      },
+      {
+        "pregunta": "3)¿Cómo se define una función en C++?",
+        "opciones": [
+          "tipo_de_retorno nombre_de_función(parametros) { cuerpo_de_función; }",
+          "nombre_de_función(tipo_de_retorno parametros) { cuerpo_de_función; }",
+          "nombre_de_función { tipo_de_retorno parametros; cuerpo_de_función; }",
+          "función tipo_de_retorno(nombre_de_función parametros) { cuerpo_de_función; }"
+        ],
+        "respuesta_correcta": "tipo_de_retorno nombre_de_función(parametros) { cuerpo_de_función; }"
+      },
+      {
+        "pregunta": "4)¿Qué hace el operador `==` en C++?",
+        "opciones": [
+          "Asigna valores",
+          "Compara si dos valores son diferentes",
+          "Compara si dos valores son iguales",
+          "Comenta una línea de código"
+        ],
+        "respuesta_correcta": "Compara si dos valores son iguales"
+      },
+      {
+        "pregunta": "5)¿Cómo se declara un puntero a entero en C++?",
+        "opciones": ["int* puntero;", "int puntero;", "pointer int;", "int &puntero;"],
+        "respuesta_correcta": "int* puntero;"
+      },
+      {
+        "pregunta": "6)¿Qué clase se utiliza para crear una ventana en Swing (Java)?",
+        "opciones": ["JPanel", "JFrame", "JWindow", "JDialog"],
+        "respuesta_correcta": "JFrame"
+      },
+      {
+        "pregunta": "7)¿Cómo se hace visible un `JFrame` en Java?",
+        "opciones": ["show();", "setVisible(true);", "display();", "open();"],
+        "respuesta_correcta": "setVisible(true);"
+      },
+      {
+        "pregunta": "8)¿Cómo se agrega un botón a un `JFrame` en Java?",
+        "opciones": [
+          "ventana.insert(new JButton(\"Texto\"));",
+          "ventana.attach(new JButton(\"Texto\"));",
+          "ventana.add(new JButton(\"Texto\"));",
+          "ventana.place(new JButton(\"Texto\"));"
+        ],
+        "respuesta_correcta": "ventana.add(new JButton(\"Texto\"));"
+      },
+      {
+        "pregunta": "9)¿Qué método se usa para establecer el tamaño de un `JFrame` en Java?",
+        "opciones": ["setDimensions(ancho, alto);", "resize(ancho, alto);", "setBounds(ancho, alto);", "setSize(ancho, alto);"],
+        "respuesta_correcta": "setSize(ancho, alto);"
+      },
+      {
+        "pregunta": "10)¿Qué método se usa para establecer la operación de cierre de un `JFrame` en Java?",
+        "opciones": [
+          "setCloseOperation(JFrame.DISPOSE_ON_CLOSE);",
+          "setExitOperation(JFrame.EXIT_ON_CLOSE);",
+          "setCloseAction(JFrame.CLOSE);",
+          "setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);"
+        ],
+        "respuesta_correcta": "setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);"
+      },
+      {
+        "pregunta": "11)¿Cómo se declara una estructura en C++?",
+        "opciones": [
+          "class Nombre { tipo miembro; };",
+          "struct Nombre { tipo miembro; };",
+          "typedef struct { tipo miembro; } Nombre;",
+          "struct Nombre(tipo miembro);"
+        ],
+        "respuesta_correcta": "struct Nombre { tipo miembro; };"
+      },
+      {
+        "pregunta": "12)¿Cómo se define una acción para un botón en Java?",
+        "opciones": [
+          "Implementando MouseListener",
+          "Implementando ActionListener",
+          "Implementando KeyListener",
+          "Definiendo WindowAdapter"
+        ],
+        "respuesta_correcta": "Implementando ActionListener"
+      },
+      {
+        "pregunta": "13)¿Cómo se crea una etiqueta en Swing (Java)?",
+        "opciones": [
+          "Label etiqueta = new Label(\"Texto\");",
+          "JText etiqueta = new JText(\"Texto\");",
+          "JLabel etiqueta = new JLabel(\"Texto\");",
+          "TextLabel etiqueta = new TextLabel(\"Texto\");"
+        ],
+        "respuesta_correcta": "JLabel etiqueta = new JLabel(\"Texto\");"
+      },
+      {
+        "pregunta": "14)¿Cómo se obtiene el texto de un `JTextField` en Java?",
+        "opciones": ["campo.getValue();", "campo.text();", "campo.readText();", "campo.getText();"],
+        "respuesta_correcta": "campo.getText();"
+      },
+      {
+        "pregunta": "15)¿Qué método se usa para redibujar un componente en Java?",
+        "opciones": ["refresh();", "update();", "draw();", "repaint();"],
+        "respuesta_correcta": "repaint();"
+      },
+      {
+        "pregunta": "16)¿Cómo se declara una variable de tipo `float` en C++?",
+        "opciones": ["decimal variable;", "double variable;", "float variable;", "var variable: float;"],
+        "respuesta_correcta": "float variable;"
+      },
+      {
+        "pregunta": "17)¿Qué clase se usa para crear un campo de texto en Swing (Java)?",
+        "opciones": ["TextField", "JTextField", "InputField", "TextBox"],
+        "respuesta_correcta": "JTextField"
+      },
+      {
+        "pregunta": "18)¿Cómo se añade un `ActionListener` a un botón en Java?",
+        "opciones": ["setActionListener()", "addActionListener()", "attachListener()", "registerListener()"],
+        "respuesta_correcta": "addActionListener()"
+      },
+      {
+        "pregunta": "19)¿Cómo se agrupan botones en Swing (Java) para que actúen como un solo grupo?",
+        "opciones": ["ButtonSet", "GroupButton", "RadioButtonGroup", "ButtonGroup"],
+        "respuesta_correcta": "ButtonGroup"
+      },
+      {
+        "pregunta": "20)¿Qué clase se usa para crear una ventana de diálogo en Swing (Java)?",
+        "opciones": ["JDialog", "JWindow", "JFrame", "JPanel"],
+        "respuesta_correcta": "JDialog"
+      }
+    ]
+    }
