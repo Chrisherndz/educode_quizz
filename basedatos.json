@@ -6,7 +6,7 @@
              "a":"FROM",
              "b":"ORDER BY",
              "c":"JOIN",
-             "d":"Todas",
+             "d":"Todas"
           },
           "respuesta_marcada":"d"
        },
@@ -36,7 +36,7 @@
              "a":"MAX",
              "b":"COUNT",
              "c":"MIN",
-             "d":"Todas",
+             "d":"Todas"
               },
           "respuesta_marcada":"a"
        },
@@ -56,7 +56,7 @@
              "a":"JOIN",
              "b":"HAVING",
              "c":"WHERE",
-             "d":"Todas",
+             "d":"Todas"
              
           },
           "respuesta_marcada":"d"
@@ -67,7 +67,7 @@
              "a":"CONCAT()",
              "b":"COUNT()",
              "c":"SUM()",
-             "d":"Todas",
+             "d":"Todas"
              
           },
           "respuesta_marcada":"a"
@@ -88,7 +88,7 @@
              "a":"UPDATE",
              "b":"SELECT",
              "c":"DELETE",
-             "d":"Todas",
+             "d":"Todas"
             
           },
           "respuesta_marcada":"d"
@@ -109,7 +109,7 @@
              "a":"SQL/86",
              "b":"System R",
              "c":"SEQUEL",
-             "d":"Todos",
+             "d":"Todos"
              
           },
           "respuesta_marcada":"c"
@@ -130,7 +130,7 @@
              "a":"Manipulación",
              "b":"Integridad",
              "c":"Estructural",
-             "d":"SQLServer 3.0",
+             "d":"SQLServer 3.0"
              
           },
           "respuesta_marcada":"d"
@@ -141,7 +141,7 @@
              "a":"Diferencia de conjuntos",
              "b":"Unión",
              "c":"Reunión",
-             "d":"Todos",
+             "d":"Todos"
              
           },
           "respuesta_marcada":"c"
@@ -206,5 +206,5 @@
           },
           "respuesta_marcada":"c"
        }
-    ],
-    
+    ]
+}
