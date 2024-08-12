@@ -1,8 +1,6 @@
-Aquí tienes el JSON transformado al mismo formato que el anterior:
 
-```json
 {
-  "PROGRAMACION": [
+  "programacion": [
     {
       "pregunta": "1) ¿Cómo se declara una variable de tipo entero en C++?",
       "opciones": {
