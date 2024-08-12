@@ -1,58 +1,47 @@
-
 {
   "programacion": [
     {
-      "pregunta": "1) ¿Cómo se declara una variable de tipo entero en C++?",
+      "pregunta": "1) ¿Qué palabra clave se utiliza para definir una clase en Java?",
       "opciones": {
-        "a": "integer variable;",
-        "b": "int variable;",
+        "a": "class",
+        "b": "def",
+        "c": "struct",
+        "d": "object"
+      },
+      "respuesta_marcada": "a"
+    },
+    {
+      "pregunta": "2) ¿Cómo se declara una variable de tipo entero en Java?",
+      "opciones": {
+        "a": "int variable;",
+        "b": "integer variable;",
         "c": "num variable;",
         "d": "float variable;"
       },
-      "respuesta_marcada": "b"
+      "respuesta_marcada": "a"
     },
     {
-      "pregunta": "2) ¿Cuál es el operador de asignación en C++?",
+      "pregunta": "3) ¿Cómo se define un método en Java?",
       "opciones": {
-        "a": "==",
-        "b": "!=",
-        "c": "=",
-        "d": "<="
-      },
-      "respuesta_marcada": "c"
-    },
-    {
-      "pregunta": "3) ¿Cómo se define una función en C++?",
-      "opciones": {
-        "a": "tipo_de_retorno nombre_de_función(parametros) { cuerpo_de_función; }",
-        "b": "nombre_de_función(tipo_de_retorno parametros) { cuerpo_de_función; }",
-        "c": "nombre_de_función { tipo_de_retorno parametros; cuerpo_de_función; }",
-        "d": "función tipo_de_retorno(nombre_de_función parametros) { cuerpo_de_función; }"
+        "a": "tipo_de_retorno nombre_de_metodo() { cuerpo_metodo; }",
+        "b": "nombre_de_metodo(tipo_de_retorno) { cuerpo_metodo; }",
+        "c": "nombre_de_metodo() { tipo_de_retorno cuerpo_metodo; }",
+        "d": "def nombre_de_metodo(tipo_de_retorno) { cuerpo_metodo; }"
       },
       "respuesta_marcada": "a"
     },
     {
-      "pregunta": "4) ¿Qué hace el operador `==` en C++?",
+      "pregunta": "4) ¿Cómo se declara un array en Java?",
       "opciones": {
-        "a": "Asigna valores",
-        "b": "Compara si dos valores son diferentes",
-        "c": "Compara si dos valores son iguales",
-        "d": "Comenta una línea de código"
-      },
-      "respuesta_marcada": "c"
-    },
-    {
-      "pregunta": "5) ¿Cómo se declara un puntero a entero en C++?",
-      "opciones": {
-        "a": "int* puntero;",
-        "b": "int puntero;",
-        "c": "pointer int;",
-        "d": "int &puntero;"
+        "a": "int[] array;",
+        "b": "int array[];",
+        "c": "array int[];",
+        "d": "int array;"
       },
       "respuesta_marcada": "a"
     },
     {
-      "pregunta": "6) ¿Qué clase se utiliza para crear una ventana en Swing (Java)?",
+      "pregunta": "5) ¿Qué clase se utiliza para crear una ventana en Swing (Java)?",
       "opciones": {
         "a": "JPanel",
         "b": "JFrame",
@@ -62,7 +51,7 @@
       "respuesta_marcada": "b"
     },
     {
-      "pregunta": "7) ¿Cómo se hace visible un `JFrame` en Java?",
+      "pregunta": "6) ¿Cómo se hace visible un `JFrame` en Java?",
       "opciones": {
         "a": "show();",
         "b": "setVisible(true);",
@@ -72,7 +61,7 @@
       "respuesta_marcada": "b"
     },
     {
-      "pregunta": "8) ¿Cómo se agrega un botón a un `JFrame` en Java?",
+      "pregunta": "7) ¿Cómo se agrega un botón a un `JFrame` en Java?",
       "opciones": {
         "a": "ventana.insert(new JButton(\"Texto\"));",
         "b": "ventana.attach(new JButton(\"Texto\"));",
@@ -82,7 +71,7 @@
       "respuesta_marcada": "c"
     },
     {
-      "pregunta": "9) ¿Qué método se usa para establecer el tamaño de un `JFrame` en Java?",
+      "pregunta": "8) ¿Qué método se usa para establecer el tamaño de un `JFrame` en Java?",
       "opciones": {
         "a": "setDimensions(ancho, alto);",
         "b": "resize(ancho, alto);",
@@ -92,7 +81,7 @@
       "respuesta_marcada": "d"
     },
     {
-      "pregunta": "10) ¿Qué método se usa para establecer la operación de cierre de un `JFrame` en Java?",
+      "pregunta": "9) ¿Qué método se usa para establecer la operación de cierre de un `JFrame` en Java?",
       "opciones": {
         "a": "setCloseOperation(JFrame.DISPOSE_ON_CLOSE);",
         "b": "setExitOperation(JFrame.EXIT_ON_CLOSE);",
@@ -102,17 +91,17 @@
       "respuesta_marcada": "d"
     },
     {
-      "pregunta": "11) ¿Cómo se declara una estructura en C++?",
+      "pregunta": "10) ¿Cómo se declara una estructura en Java?",
       "opciones": {
         "a": "class Nombre { tipo miembro; };",
         "b": "struct Nombre { tipo miembro; };",
         "c": "typedef struct { tipo miembro; } Nombre;",
-        "d": "struct Nombre(tipo miembro);"
+        "d": "Java no tiene estructuras, usa clases en su lugar;"
       },
-      "respuesta_marcada": "b"
+      "respuesta_marcada": "d"
     },
     {
-      "pregunta": "12) ¿Cómo se define una acción para un botón en Java?",
+      "pregunta": "11) ¿Cómo se define una acción para un botón en Java?",
       "opciones": {
         "a": "Implementando MouseListener",
         "b": "Implementando ActionListener",
@@ -122,7 +111,7 @@
       "respuesta_marcada": "b"
     },
     {
-      "pregunta": "13) ¿Cómo se crea una etiqueta en Swing (Java)?",
+      "pregunta": "12) ¿Cómo se crea una etiqueta en Swing (Java)?",
       "opciones": {
         "a": "Label etiqueta = new Label(\"Texto\");",
         "b": "JText etiqueta = new JText(\"Texto\");",
@@ -132,7 +121,7 @@
       "respuesta_marcada": "c"
     },
     {
-      "pregunta": "14) ¿Cómo se obtiene el texto de un `JTextField` en Java?",
+      "pregunta": "13) ¿Cómo se obtiene el texto de un `JTextField` en Java?",
       "opciones": {
         "a": "campo.getValue();",
         "b": "campo.text();",
@@ -142,7 +131,7 @@
       "respuesta_marcada": "d"
     },
     {
-      "pregunta": "15) ¿Qué método se usa para redibujar un componente en Java?",
+      "pregunta": "14) ¿Qué método se usa para redibujar un componente en Java?",
       "opciones": {
         "a": "refresh();",
         "b": "update();",
@@ -152,54 +141,64 @@
       "respuesta_marcada": "d"
     },
     {
-      "pregunta": "16) ¿Cómo se declara una variable de tipo `float` en C++?",
+      "pregunta": "15) ¿Cómo se maneja un evento de clic en un botón en Java?",
       "opciones": {
-        "a": "decimal variable;",
-        "b": "double variable;",
-        "c": "float variable;",
-        "d": "var variable: float;"
+        "a": "addClickListener()",
+        "b": "addEventListener()",
+        "c": "addActionListener()",
+        "d": "setActionListener()"
       },
       "respuesta_marcada": "c"
     },
     {
-      "pregunta": "17) ¿Qué clase se usa para crear un campo de texto en Swing (Java)?",
+      "pregunta": "16) ¿Qué clase se utiliza para manejar eventos de teclado en Java?",
       "opciones": {
-        "a": "TextField",
-        "b": "JTextField",
-        "c": "InputField",
-        "d": "TextBox"
+        "a": "KeyboardListener",
+        "b": "KeyListener",
+        "c": "InputListener",
+        "d": "ActionListener"
       },
       "respuesta_marcada": "b"
     },
     {
-      "pregunta": "18) ¿Cómo se añade un `ActionListener` a un botón en Java?",
+      "pregunta": "17) ¿Cómo se declara un array de Strings en Java?",
       "opciones": {
-        "a": "setActionListener()",
-        "b": "addActionListener()",
-        "c": "attachListener()",
-        "d": "registerListener()"
-      },
-      "respuesta_marcada": "b"
-    },
-    {
-      "pregunta": "19) ¿Cómo se agrupan botones en Swing (Java) para que actúen como un solo grupo?",
-      "opciones": {
-        "a": "ButtonSet",
-        "b": "GroupButton",
-        "c": "RadioButtonGroup",
-        "d": "ButtonGroup"
-      },
-      "respuesta_marcada": "d"
-    },
-    {
-      "pregunta": "20) ¿Qué clase se usa para crear una ventana de diálogo en Swing (Java)?",
-      "opciones": {
-        "a": "JDialog",
-        "b": "JWindow",
-        "c": "JFrame",
-        "d": "JPanel"
+        "a": "String[] array;",
+        "b": "array String[];",
+        "c": "String array[];",
+        "d": "String array;"
       },
       "respuesta_marcada": "a"
+    },
+    {
+      "pregunta": "18) ¿Qué método se usa para agregar un componente a un `JPanel` en Java?",
+      "opciones": {
+        "a": "addComponent()",
+        "b": "insert()",
+        "c": "add()",
+        "d": "append()"
+      },
+      "respuesta_marcada": "c"
+    },
+    {
+      "pregunta": "19) ¿Cómo se establece el layout de un `JPanel` en Java?",
+      "opciones": {
+        "a": "setLayoutManager()",
+        "b": "setLayout()",
+        "c": "configureLayout()",
+        "d": "setArrangement()"
+      },
+      "respuesta_marcada": "b"
+    },
+    {
+      "pregunta": "20) ¿Qué método se usa para establecer el color de fondo de un `JPanel` en Java?",
+      "opciones": {
+        "a": "setBackgroundColor()",
+        "b": "setColor()",
+        "c": "setBackground()",
+        "d": "setFillColor()"
+      },
+      "respuesta_marcada": "c"
     }
   ]
 }
