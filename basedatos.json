@@ -1,7 +1,7 @@
 {
     "BASE_DATOS":[
        {
-          "pregunta":"Además del `WHERE` en esta cláusula también se coloca una condición",
+          "pregunta":"¿Además del `WHERE` en esta cláusula también se coloca una condición?",
           "opciones":{
              "a":"FROM",
              "b":"ORDER BY",
@@ -11,7 +11,7 @@
           "respuesta_marcada":"d"
        },
        {
-          "pregunta":"Cláusula obligatoria en el comando `INSERT`",
+          "pregunta":"¿Cláusula obligatoria en el comando `INSERT`?",
           "opciones":{
              "a":"WHERE",
              "b":"SELECT",
@@ -21,7 +21,7 @@
           "respuesta_marcada":"d"
        },
        {
-          "pregunta":"Cláusula que se reconoce por los alias con nombres válidos de las columnas",
+          "pregunta":"¿Cláusula que se reconoce por los alias con nombres válidos de las columnas?",
           "opciones":{
              "a":"WHERE",
              "b":"ORDER BY",
@@ -31,7 +31,7 @@
           "respuesta_marcada":"d"
        },
        {
-          "pregunta":"Función agregada que no puede ser usada con columnas de tipo cadena",
+          "pregunta":"¿Función agregada que no puede ser usada con columnas de tipo cadena?",
           "opciones":{
              "a":"MAX",
              "b":"COUNT",
@@ -41,7 +41,7 @@
           "respuesta_marcada":"a"
        },
        {
-          "pregunta":"Función de texto que te permite al comando `SELECT` modificar el valor de una columna dentro de la base de datos",
+          "pregunta":"¿Función de texto que te permite al comando `SELECT` modificar el valor de una columna dentro de la base de datos?",
           "opciones":{
              "a":"SUBSTRING",
              "b":"LOWER",
@@ -51,7 +51,7 @@
           "respuesta_marcada":"d"
        },
        {
-          "pregunta":"Cláusula opcional en una sentencia `SELECT`",
+          "pregunta":"¿Cláusula opcional en una sentencia `SELECT`?",
           "opciones":{
              "a":"JOIN",
              "b":"HAVING",
@@ -62,7 +62,7 @@
           "respuesta_marcada":"d"
        },
        {
-          "pregunta":"Función utilizada para concatenar dos columnas",
+          "pregunta":"¿Función utilizada para concatenar dos columnas?",
           "opciones":{
              "a":"CONCAT()",
              "b":"COUNT()",
@@ -73,7 +73,7 @@
           "respuesta_marcada":"a"
        },
        {
-          "pregunta":"Cláusula obligatoria en el comando `INSERT`",
+          "pregunta":"¿Cláusula obligatoria en el comando `INSERT`?",
           "opciones":{
              "a":"SET",
              "b":"SELECT",
@@ -83,7 +83,7 @@
           "respuesta_marcada":"d"
        },
        {
-          "pregunta":"Permite el uso de subconsultas",
+          "pregunta":"¿Permite el uso de subconsultas?",
           "opciones":{
              "a":"UPDATE",
              "b":"SELECT",
@@ -94,7 +94,7 @@
           "respuesta_marcada":"d"
        },
        {
-          "pregunta":"Función de texto que le permite al comando `SELECT` modificar el valor de una columna dentro de la base de datos",
+          "pregunta":"¿Función de texto que le permite al comando `SELECT` modificar el valor de una columna dentro de la base de datos?",
           "opciones":{
              "a":"REPLACE",
              "b":"LOWER",
@@ -104,7 +104,7 @@
           "respuesta_marcada":"d"
        },
        {
-          "pregunta":"Primer lenguaje que consulta a bases de datos en una base de datos relacional",
+          "pregunta":"¿Primer lenguaje que consulta a bases de datos en una base de datos relacional?",
           "opciones":{
              "a":"SQL/86",
              "b":"System R",
@@ -115,7 +115,7 @@
           "respuesta_marcada":"c"
        },
        {
-          "pregunta":"Primer lenguaje de consulta que puede trabajar con más de dos tablas",
+          "pregunta":"¿Primer lenguaje de consulta que puede trabajar con más de dos tablas?",
           "opciones":{
              "a":"Proyección",
              "b":"Join",
@@ -125,7 +125,7 @@
           "respuesta_marcada":"d"
        },
        {
-          "pregunta":"Es el nivel más importante en la manipulación de la base de datos",
+          "pregunta":"¿Es el nivel más importante en la manipulación de la base de datos?",
           "opciones":{
              "a":"Manipulación",
              "b":"Integridad",
@@ -136,7 +136,7 @@
           "respuesta_marcada":"d"
        },
        {
-          "pregunta":"Operación que no requiere tablas equivalentes",
+          "pregunta":"¿Operación que no requiere tablas equivalentes?",
           "opciones":{
              "a":"Diferencia de conjuntos",
              "b":"Unión",
@@ -147,7 +147,7 @@
           "respuesta_marcada":"c"
        },
        {
-          "pregunta":"Operación algebraica que puede trabajar con tres tablas",
+          "pregunta":"¿Operación algebraica que puede trabajar con tres tablas?",
           "opciones":{
              "a":"Proyección",
              "b":"Unión",
@@ -157,7 +157,7 @@
           "respuesta_marcada":"d"
        },
        {
-          "pregunta":"Se refiere a las restricciones que deben cumplir las tablas de una base de datos",
+          "pregunta":"¿Se refiere a las restricciones que deben cumplir las tablas de una base de datos?",
           "opciones":{
              "a":"Nivel interno",
              "b":"Nivel intermedio",
@@ -167,7 +167,7 @@
           "respuesta_marcada":"d"
        },
        {
-          "pregunta":"Operaciones que requieren tablas equivalentes",
+          "pregunta":"¿Operaciones que requieren tablas equivalentes?",
           "opciones":{
              "a":"Producto cartesiano",
              "b":"Diferencia de conjuntos",
@@ -177,7 +177,7 @@
           "respuesta_marcada":"b"
        },
        {
-          "pregunta":"Primer lenguaje de consulta de datos",
+          "pregunta":"¿Primer lenguaje de consulta de datos?",
           "opciones":{
              "a":"SQL",
              "b":"SEQUEL",
@@ -187,7 +187,7 @@
           "respuesta_marcada":"b"
        },
        {
-          "pregunta":"También es conocido como nivel externo",
+          "pregunta":"¿También es conocido como nivel externo?",
           "opciones":{
              "a":"Nivel físico",
              "b":"Nivel lógico",
@@ -197,7 +197,7 @@
           "respuesta_marcada":"d"
        },
        {
-          "pregunta":"Empresa donde nació el SQL Server",
+          "pregunta":"¿Empresa donde nació el SQL Server?",
           "opciones":{
              "a":"Microsoft",
              "b":"Sybase",
